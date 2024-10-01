@@ -15,7 +15,7 @@ The data is ingested from the Twitter API, allowing for real-time analysis of tw
 
 ## System Architecture
 
-![System Architecture](https://github.com/airscholar/e2e-data-engineering/blob/main/Data%20engineering%20architecture.png)
+![System Architecture](https://github.com/syafriedf/twitter-etl-streaming/blob/main/Architecture.png)
 
 The project is designed with the following components:
 
